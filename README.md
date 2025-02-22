@@ -1,1 +1,1 @@
-Интенсив от itlogia фреймворк Angular
+Интенсив по Frontend( Верстка + Angular)
